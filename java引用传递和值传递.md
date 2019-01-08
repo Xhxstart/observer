@@ -1,4 +1,4 @@
-# observer
+# java引用传递和值传递
 
 前面我们说过java中并不存在引用调用，这点是没错的，
 因为java程序设计语言确实是采用了按值调用，即call by value。
